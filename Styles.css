@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    text-decoration: underline;
+    color: red;
+    font-size: 42px;
+    margin: 1px
+}
+
+.basicstyles  {
+    border: 3px solid #000;
+    margin: 3px
+    
+}
+.basictext{ 
+    color: blue;
+    margin: 2px 
+}
+.selectors{
+    text-align: center;
+    border:3px solid #000;
+    margin: 3px 
+} 
+.selectorstext{
+    color: green;
+    margin: 2px 
+
+}
+.selectorheading {
+    text-align: center;
+    text-decoration: underline;
+}
+.subheading{
+    text-align: center;
+    font-style: italic;
+}
+.basicheading{
+    text-decoration: underline;
+}
+.hipster{
+    margin: 3px;
+border: 2px dotted black
+
+}
