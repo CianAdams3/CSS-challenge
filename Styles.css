@@ -1,15 +1,15 @@
 body{
     font-family: 'Times New Roman', Times, serif;
 }
-
+/* Heading */
 header {
     text-decoration: underline;
     color: red;
     font-size: 42px;
     margin: 1px
 }
-
-.basicstyles  {
+/* Basic stylings section */
+section  {
     border: 3px solid #000;
     margin: 6px
     
@@ -30,10 +30,13 @@ border: 2px dotted black
 .basicsub{
     margin: 6px;
 }
+.bold{
+    font-weight: bold;
+}
+/* selectors section */
 .selectors{
     text-align: center;
-    border:3px solid #000;
-    margin: 6px 
+   
 } 
 .selectorstext{
     background-color: green;
@@ -52,3 +55,4 @@ border: 2px dotted black
     font-style: italic;
     background-color: green;
 }
+
